@@ -9,9 +9,18 @@ div{
 }
 .main{font-size: xx-large;}
 
+ .nav{ 
 
-}
- 
+    min-height: 200px;
+
+    margin: 10px;
+
+    text-align: center;
+
+
+ }
+
+
 
 .Innhold{
 
@@ -22,3 +31,4 @@ div{
     text-align: center;
 
 }
+

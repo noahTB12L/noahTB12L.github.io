@@ -9,7 +9,18 @@ div{
 }
 .main{font-size: xx-large;}
 
+
+.nav li{
+display: inline;
+
+}
+
+
+
+
+
  .nav{ 
+
 
     min-height: 200px;
 
@@ -28,7 +39,7 @@ div{
 
     margin: 10px;
 
-    text-align: center;
+    text-align:left;
 
 }
 

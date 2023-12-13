@@ -1,0 +1,42 @@
+div{
+
+    border: black 1px solid;
+
+    margin: 5px;
+
+
+}
+.sidetittel{
+    text-align: center;
+    background-color: antiquewhite;
+    border: black 2px solid;
+}
+.innholdvideo1{
+    background-color: antiquewhite;
+}  
+.innholdvideo2{
+    background-color: antiquewhite;
+}  
+
+
+
+
+
+.innhold{
+    display: flex;
+    justify-content: center;
+    border: 0px;
+} 
+body{
+     background-image: url('images/stjerne.jpg');
+}
+.footer{
+    background-color: antiquewhite;
+    max-width: 50%;
+    border: black 2px solid;
+}
+.footerbox{
+    display: flex;
+    justify-content: center;
+    border: 0px;
+}
